@@ -25,7 +25,7 @@ SECRET_KEY = 'gpx#fzk3=1r+@x+2p5ovyhpb&v!o594hpd$017=6z69$g0+o@i'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['facebooksiteapp.herokuapp.com']
 
 
 # Application definition
