@@ -1,0 +1,1 @@
+web: gunicorn prjfacebook.wsgi --log-file -
